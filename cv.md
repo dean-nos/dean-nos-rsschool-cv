@@ -26,11 +26,9 @@
 
 3. JAVASCRIPT/REACT
 
-4. BOOTSTRAP
+4. Figma
 
-5. Figma
-
-6. Git
+5. Git
 
 ## About me
 
